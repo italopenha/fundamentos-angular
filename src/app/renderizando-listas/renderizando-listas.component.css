@@ -1,0 +1,28 @@
+* {
+    list-style-type: none;
+    padding: 0px;
+}
+
+ul {
+    display: inline-block;
+    margin: 5px;
+}
+
+li {
+    padding: 5px 5px 10px 5px;
+    border-style: solid;
+    margin: 5px;
+}
+
+span {
+    display: inline-block;
+    padding: 10px;
+    background-color: green;
+    border-radius: 5px;
+    color: white;
+}
+
+.esgotado {
+    background-color: red;
+}
+
